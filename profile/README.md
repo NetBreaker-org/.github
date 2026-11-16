@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NetBreaker-org/NetBreaker/blob/main/assets/home.gif" width="100%" />
+  <img src="https://github.com/NetBreaker-org/.github/blob/main/assets/home.gif" width="100%" />
 </p>
 
 <h1 align="center">Hey, we're NetBreaker.</h1>
